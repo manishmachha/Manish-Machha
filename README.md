@@ -42,7 +42,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishmachha&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manishmachha&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=manishmachha&theme=radical&show_icons=true" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:manishmachha@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
