@@ -50,7 +50,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishmachha&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishmachha&layout=donut&langs_count=4" />
 </p>
 
 ---
