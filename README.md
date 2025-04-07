@@ -41,7 +41,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishmachha&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
 </p>
 
@@ -52,7 +52,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamemanishmachha&layout=compact&langs_count=6&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishmachha&layout=compact&langs_count=6&theme=radical" />
 </p>
 
 ---
