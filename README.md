@@ -49,11 +49,11 @@
 
 ### 📂 Top Projects
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🔗 [Project Name](https://github.com/your-username/project-repo) | Java, Spring Boot, Angular | Brief description of the project |
-| 🔗 [Another Project](https://github.com/your-username/project-repo) | AWS CDK, Docker, Jenkins | Brief description of the DevOps project |
-| 🔗 [Mini App](https://github.com/your-username/project-repo) | REST API, Hibernate | Small project or toy app |
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamemanishmachha&layout=compact&langs_count=6&theme=radical" />
+</p>
 
 ---
 
