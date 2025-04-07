@@ -42,7 +42,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishmachha&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manishmachha&theme=radical" />
 </p>
 
 ---
@@ -72,5 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=manishmachha&style=flat-square&color=blue" alt="Profile views" />
 </p>
